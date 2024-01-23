@@ -1,0 +1,2 @@
+// script thats count the number of docs in collec
+db.school.count()
